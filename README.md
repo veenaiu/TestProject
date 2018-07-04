@@ -1,6 +1,6 @@
-# Project Title
+# About Canada
 
-About Canada
+The project shows a list of details about the country Canada.
 
 ## Getting Started
 
